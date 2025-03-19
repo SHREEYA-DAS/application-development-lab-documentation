@@ -16,7 +16,7 @@
 | 3                 | Pneumonia Detection using CNN |                     |                     |                       |                  |
 | 4                 | Regression Analysis for Stock Prediction   | 30/01/2025          | 06/02/2025          | [Link to Documentation]() | [Link to Project](https://github.com/QwertyFusion/Stock-Price-Prediction) |
 | 5                 | Conversational Chatbot with Any Files   | 06/02/2025          | 20/02/2025          | [Link to Documentation]() | [Link to Project](https://github.com/SHREEYA-DAS/Conversational-PDF-Chatbot) |
-| 6                 |                                       |                     |                     |                       |                  |
+| 6                 | Web Scraper using LLMs   | 06/02/2025          | 20/02/2025          | [Link to Documentation]() | [Link to Project]() |
 | 7                 |                                       |                     |                     |                       |                  |
 | 8                 |                                       |                     |                     |                       |                  |
 | 9                 |                                       |                     |                     |                       |                  |
