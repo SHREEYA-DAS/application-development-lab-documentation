@@ -17,7 +17,7 @@
 | 4                 | Regression Analysis for Stock Prediction   | 30/01/2025          | 06/02/2025          | [Link to Documentation]() | [Link to Project](https://github.com/QwertyFusion/Stock-Price-Prediction) |
 | 5                 | Conversational Chatbot with Any Files   | 06/02/2025          | 20/02/2025          | [Link to Documentation]() | [Link to Project](https://github.com/SHREEYA-DAS/Conversational-PDF-Chatbot) |
 | 6                 | Web Scraper using LLMs   | 06/02/2025          | 20/02/2025          | [Link to Documentation](https://github.com/SHREEYA-DAS/application-development-lab-documentation/blob/9814684a12071a4305ac3e204397f569fb8fb3be/Lab%206%20-%20Web%20Scraper%20using%20LLMs/AD%20Lab%20Documentation.pdf) | [Link to Project](https://github.com/SHREEYA-DAS/Web-Scraper-using-LLMs) |
-| 7                 |                                       |                     |                     |                       |                  |
+| 7                 | Database Management using Flask   | 20/02/2025          | 27/02/2025          | [Link to Documentation](https://github.com/SHREEYA-DAS/application-development-lab-documentation/blob/18779668173346617dffb40445c856d4f6306cfb/Exp%207%20-%20Database%20Management%20Using%20Flask/AD_Lab_Documentation.pdf) | [Link to Project](https://github.com/SHREEYA-DAS/Database-Management-using-Flask) |
 | 8                 |                                       |                     |                     |                       |                  |
 | 9                 |                                       |                     |                     |                       |                  |
 | 10
